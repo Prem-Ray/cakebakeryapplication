@@ -65,7 +65,7 @@ src
 ```properties
 cake.frostingType=strawberry
 cake.syrupType=chocolate
-server.port=8081
+server.port=8080
 ```
 
 ---
