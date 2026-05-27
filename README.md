@@ -112,7 +112,7 @@ mvn spring-boot:run
 ## Spring Boot
 
 * `@Component`
-* `@Value`
+* `@ConditionalOnProperty`
 * Constructor Injection
 * Bean Management
 * `application.properties`
